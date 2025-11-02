@@ -1,8 +1,8 @@
 # Pathik (পথিক)
 _Rediscover Kolkata, one story at a time._
 
-![Status](https://img.shields.io/badge/Status-In%20Development-yellow)
-![Hackathon](https://img.shields.io/badge/Hackathon-Calcutta<Hacks/>%202025-blue)
+![Status](https://img.shields.io/badge/Status-In%20Development-orange)
+![Hackathon](https://img.shields.io/badge/Hackathon-Calcutta%20<Hacks/>%202025-gold)
 
 ---
 
